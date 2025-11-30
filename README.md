@@ -23,7 +23,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourname/goofish-tracker.git
+git clone https://github.com/howarddong711/goofish-tracker.git
 cd goofish-tracker
 
 # 安装 Python 依赖
@@ -36,8 +36,6 @@ playwright install chromium
 ### 2. 配置
 
 ```bash
-# 复制配置文件
-cp config.example.yaml config.yaml
 
 # 编辑配置，添加你的关键词
 vim config.yaml

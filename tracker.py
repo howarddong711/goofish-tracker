@@ -3,11 +3,10 @@
 Goofish Tracker - 闲鱼商品追踪器
 支持24小时定时运行，记录价格变化，追踪商品状态
 
-GitHub: https://github.com/yourname/goofish-tracker
+GitHub: https://github.com/howarddong711/goofish-tracker
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
 
 import hashlib
 import asyncio

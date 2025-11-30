@@ -1,0 +1,39 @@
+# 配置文件（包含个人设置）
+config.yaml
+
+# 数据目录
+data/
+
+# 日志
+logs/
+*.log
+
+# PID 文件
+*.pid
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
